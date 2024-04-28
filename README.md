@@ -8,3 +8,9 @@ This repository contains the code for the second coursework of the Data Science 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Visualisation
+The visualization section of the coursework focuses on representing COVID-19 data graphically. This data is located in the `covid19-report` folder and has already been cleaned for this specific task. The visualization component consists of three distinct tasks:
+- Task 1: Visualising the number of confirmed cases, deaths, recoveries and growth factor over time.
+- Task 2: Visualising the number of confirmed cases, deaths, and recoveries per continent.
+- Task 3: Visualising the number of confirmed cases, deaths, and recoveries for top 10 influenced country.
