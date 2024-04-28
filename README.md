@@ -14,3 +14,9 @@ The visualization section of the coursework focuses on representing COVID-19 dat
 - Task 1: Visualising the number of confirmed cases, deaths, recoveries and growth factor over time.
 - Task 2: Visualising the number of confirmed cases, deaths, and recoveries per continent.
 - Task 3: Visualising the number of confirmed cases, deaths, and recoveries for top 10 influenced country.
+
+## Forecasting
+The forcasting section of the coursework predicts the number of confirmed cases for the next 20 days. The data for this task is located in the `covid19-global-forecasting` folder. The forecasting component consists of 3 distinct tasks:
+- Task 1: Using the SIR model to explain the spread of the virus.
+- Task 2: Fit a linear regression model to the number of confirmed cases.
+- Task 3: Fit a logistic regression model to predict the number of confirmed cases.
