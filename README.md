@@ -4,3 +4,7 @@ This repository contains the code for the second coursework of the Data Science 
 
 ## Pre-requisites
 - Data: The data for the coursework is provided in the `01871834-math70076-assessment-2-data` folder, which contains 2 sub-folders: `covid19-report`(for visualisation tasks) and `covid19-global-forecasting` (for forecasting task).
+- Pakages: All the required packages are listed in the `requirements.txt` file. One can install all the required packages by running the following command:
+```bash
+pip install -r requirements.txt
+```
