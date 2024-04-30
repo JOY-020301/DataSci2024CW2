@@ -20,3 +20,22 @@ The forcasting section of the coursework predicts the number of confirmed cases 
 - Task 1: Using the SIR model to explain the spread of the virus.
 - Task 2: Fit a linear regression model to the number of confirmed cases.
 - Task 3: Fit a logistic regression model to predict the number of confirmed cases.
+
+
+## Instructions for Reproduction
+To reproduce the results, one can get the codes by running the following commands:
+```bash
+# Clone the repository
+git clone https://github.com/JOY-020301/DataSci2024CW2.git
+```
+
+or download the zip file from the repository and extract it. Then, navigate to the folder. Before running the code, make sure you have installed all the required packages by running the following command:
+```bash
+pip install -r requirements.txt
+```
+
+After installing the required packages, you can run the code by opening the jupyter notebook and running the cells. You can simply click the *Run All* button to run all the cells at once for each notebook. The suggested order of running the notebooks is as follows:
+
+1. `01871834_math70076_assessment_2_Visualisation.ipynb`
+2. `01871834_math70076_assessment_2_Forcasting_EDA.ipynb`
+3. `01871834_math70076_assessment_2_Forcasting.ipynb`
